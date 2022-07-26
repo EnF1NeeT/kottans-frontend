@@ -9,3 +9,5 @@ Repo for true kottans
 ## Git Collaboration
 Досить цікаві відео на coursera прояснили деякі моменти пов'язані з Git.
 Практичні завдання допомогли закріпити отриманні знання та навички!
+<a href="https://ibb.co/X4RSK96"><img src="https://i.ibb.co/z5vGB1C/2022-07-26-161742.png" alt="2022-07-26-161742" border="0"></a>
+<a href="https://ibb.co/vH9m6mh"><img src="https://i.ibb.co/SPS040c/2022-07-26-194652.png" alt="2022-07-26-194652" border="0"></a>
