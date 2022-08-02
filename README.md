@@ -24,3 +24,5 @@ As for the course from Codecademy, I liked it first of all because there is an o
 ## Responsive Web Design
 it was an extremely interesting and important part of the course. It was quite easy to deal with the FLEXBOX, but with the GRID there were already some questions. But now everything seems to be clear.
 Both properties are very important for the site. But the grid turned out to be quite easy to manage and change elements
+https://im.ge/i/FAeYey
+https://im.ge/i/FAe3cJ
