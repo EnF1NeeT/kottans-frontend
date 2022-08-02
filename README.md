@@ -20,3 +20,7 @@ As for the course from Codecademy, I liked it first of all because there is an o
 <a href="https://ibb.co/vQwkMrr"><img src="https://i.ibb.co/7RYK0TT/Codecademy.png" alt="Codecademy" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/TTkpkqV/Introduction-to-CSS.png" alt="Introduction-to-CSS" border="0"></a>
 <a href="https://ibb.co/gJxV5mm"><img src="https://i.ibb.co/x6NHpXX/Introduction-to-HTML5.png" alt="Introduction-to-HTML5" border="0"></a>
+
+## Responsive Web Design
+it was an extremely interesting and important part of the course. It was quite easy to deal with the FLEXBOX, but with the GRID there were already some questions. But now everything seems to be clear.
+Both properties are very important for the site. But the grid turned out to be quite easy to manage and change elements
