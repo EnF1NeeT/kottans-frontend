@@ -26,3 +26,8 @@ it was an extremely interesting and important part of the course. It was quite e
 Both properties are very important for the site. But the grid turned out to be quite easy to manage and change elements
 https://im.ge/i/FAeYey
 https://im.ge/i/FAe3cJ
+
+## HTML і CSS практика: Hooli-style Popup
+The task of creating a popup using the HTML/CSS has been successfully completed!
+[Demo](https://enf1neet.github.io/enf1neet_popup_demo/)
+[Code base](https://github.com/EnF1NeeT/enf1neet_popup_demo)
